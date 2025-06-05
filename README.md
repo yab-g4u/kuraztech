@@ -47,7 +47,7 @@ const tasks = [
 2. **Navigate to the project directory**
 
    ```bash
-   cd frontend
+   cd kuraztech
    ```
 
 3. **Install dependencies**
